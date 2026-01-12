@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppNotificationControl</string>
+    <string name="notification_listener_label">Between通知制御</string>
+    <string name="status_on">Betweenの通知: ON</string>
+    <string name="status_off">Betweenの通知: OFF</string>
+    <string name="status_needs_access">通知アクセスが必要です。タップして許可してください。</string>
+    <string name="toggle_on">Between通知をONにしました</string>
+    <string name="toggle_off">Between通知をOFFにしました</string>
+</resources>
